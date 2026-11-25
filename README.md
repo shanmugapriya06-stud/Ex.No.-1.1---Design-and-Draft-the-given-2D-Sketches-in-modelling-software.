@@ -15,9 +15,17 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 1.Open Autodesk Fusion 360 and create a new Part Design file. Select the Front view (XY Plane) and choose Create Sketch to enter the sketching environment.
 
+<img width="683" height="357" alt="Screenshot 2026-11-25 141346" src="https://github.com/user-attachments/assets/abf8fb34-23bc-483a-afbc-aa8b8c1b9af4" />
+
+
 2. Similarly, draw the horizontal reference lines from the centre point towards both sides. Create a horizontal line of 47 mm towards the left and another of 47 mm towards the right, establishing the required reference positions for the sketch.
+
+
 3. At the central region, use the Circle – Center Diameter Circle tool to draw the two required concentric middle circles. Assign the specified diameters of Ø40 mm and Ø66 mm using the Sketch Dimension tool.
-<img width="413" height="432" alt="image" src="https://github.com/user-attachments/assets/e6e75fd5-8f94-42ba-a795-758b36ce7da7" />
+
+
+<img width="891" height="462" alt="Screenshot 2026-11-25 141356" src="https://github.com/user-attachments/assets/6636d94b-640c-46c5-80a8-b00ec163f4fb" />
+
 
  4. Create a small circle of 6 mm radius at the required position around the central circular feature. Use the Circular Pattern command to create a total of six equally spaced circles around the centre.
  
@@ -32,7 +40,10 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 9. Similarly, create the required Ø20 mm and Ø40 mm circles between the left-side and bottom circular features. Position them accurately using the appropriate tangent relationships and dimensions.
 
  10. Use the Trim command to remove all the extra portions of the circles and arcs that are not part of the required outer profile. Ensure that the remaining curves form a smooth and continuous connection between the different circular features.
-<img width="295" height="361" alt="image" src="https://github.com/user-attachments/assets/4dfc64d9-9c2f-4080-80d0-6c3c6f822fa4" />
+
+
+<img width="1038" height="638" alt="Screenshot 2026-11-25 141420" src="https://github.com/user-attachments/assets/fb2a1a96-c80c-41d3-9b06-bfcf259d6dbc" />
+
 
 11. Check the left-side geometry carefully and apply the necessary geometric constraints, including tangent, coincident, horizontal, and vertical constraints, wherever required. This ensures that the sketch maintains the correct shape and relative positions.
 
@@ -41,7 +52,9 @@ To sketch the given drawing with dimensions using fusion 360 tool.
  13. After mirroring, use the Trim tool wherever necessary to remove any unwanted overlapping or extra portions. Verify that all the circles, arcs, and connecting curves match the dimensions and overall shape shown in the reference drawing.
 
 14. Finally, inspect the complete sketch to ensure that all the required dimensions, curves, circular features, and constraints are correctly applied and that the profile matches the given reference drawing. After verifying the sketch, click Finish Sketch and save the completed Fusion 360 design with the required file name.
-<img width="481" height="229" alt="image" src="https://github.com/user-attachments/assets/b2f444ab-d314-4e7b-a815-3188c0e03dac" />
+
+<img width="530" height="365" alt="Screenshot 2026-11-25 141437" src="https://github.com/user-attachments/assets/a49a5753-3193-4e9f-9c78-bb2478a85aee" />
+
 
 15. After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.Thus, the given drawing is successfully created using Autodesk Fusion 360. 
 ## SKETCHS
